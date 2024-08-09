@@ -15,3 +15,6 @@
   <li>
       Generate an Application Key
   </li>
+<li>
+      if project can't run, need to clean application and config cache
+  </li>
